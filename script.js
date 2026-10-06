@@ -3,15 +3,15 @@ const projects = [
     title: "Séjour — nouvelle atmosphère",
     category: "Peinture intérieure",
     description: "Une pièce éclaircie et réchauffée par une nouvelle palette de teintes.",
-    before: "https://images.unsplash.com/photo-1617104678098-de229db51175?auto=format&fit=crop&w=1200&q=85",
-    after: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=85"
+    before: "./resources/avant1.png",
+    after: "./resources/apres1.png"
   },
   {
-    title: "Cuisine — du classique au contemporain",
+    title: "Séjour — changement total",
     category: "Rénovation",
     description: "Préparation des surfaces et mise en peinture pour transformer l'espace.",
-    before: "https://images.unsplash.com/photo-1556912173-46c336c7fd55?auto=format&fit=crop&w=1200&q=85",
-    after: "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=85"
+    before: "./resources/avant2.png",
+    after: "./resources/apres2.png"
   }
 ];
 
